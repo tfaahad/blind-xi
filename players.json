@@ -1,0 +1,4872 @@
+[
+    {
+        "id": 209331,
+        "name": "Mohamed Salah",
+        "rating": 91,
+        "club": "Liverpool",
+        "nation": "Egypt",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 231747,
+        "name": "Kylian Mbapp\u00e9",
+        "rating": 91,
+        "club": "Real Madrid",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 231443,
+        "name": "Ousmane Demb\u00e9l\u00e9",
+        "rating": 90,
+        "club": "Paris SG",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 231866,
+        "name": "Rodri",
+        "rating": 90,
+        "club": "Manchester City",
+        "nation": "Spain",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 203376,
+        "name": "Virgil van Dijk",
+        "rating": 90,
+        "club": "Liverpool",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 252371,
+        "name": "Jude Bellingham",
+        "rating": 90,
+        "club": "Real Madrid",
+        "nation": "England",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 239085,
+        "name": "Erling Haaland",
+        "rating": 90,
+        "club": "Manchester City",
+        "nation": "Norway",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 233419,
+        "name": "Raphinha",
+        "rating": 89,
+        "club": "FC Barcelona",
+        "nation": "Brazil",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 235212,
+        "name": "Achraf Hakimi",
+        "rating": 89,
+        "club": "Paris SG",
+        "nation": "Morocco",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 277643,
+        "name": "Lamine Yamal",
+        "rating": 89,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 255253,
+        "name": "Vitinha",
+        "rating": 89,
+        "club": "Paris SG",
+        "nation": "Portugal",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 230621,
+        "name": "Gianluigi Donnarumma",
+        "rating": 89,
+        "club": "Manchester City",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 251854,
+        "name": "Pedri",
+        "rating": 89,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 212622,
+        "name": "Joshua Kimmich",
+        "rating": 89,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Germany",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 212831,
+        "name": "Alisson",
+        "rating": 89,
+        "club": "Liverpool",
+        "nation": "Brazil",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 202126,
+        "name": "Harry Kane",
+        "rating": 89,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "England",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 239053,
+        "name": "Federico Valverde",
+        "rating": 89,
+        "club": "Real Madrid",
+        "nation": "Uruguay",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 238794,
+        "name": "Vini Jr.",
+        "rating": 89,
+        "club": "Real Madrid",
+        "nation": "Brazil",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 256630,
+        "name": "Florian Wirtz",
+        "rating": 89,
+        "club": "Liverpool",
+        "nation": "Germany",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 192119,
+        "name": "Thibaut Courtois",
+        "rating": 89,
+        "club": "Real Madrid",
+        "nation": "Belgium",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 188545,
+        "name": "Robert Lewandowski",
+        "rating": 88,
+        "club": "FC Barcelona",
+        "nation": "Poland",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 231478,
+        "name": "Lautaro Mart\u00ednez",
+        "rating": 88,
+        "club": "Lombardia FC",
+        "nation": "Argentina",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 233731,
+        "name": "Alexander Isak",
+        "rating": 88,
+        "club": "Liverpool",
+        "nation": "Sweden",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 256790,
+        "name": "Jamal Musiala",
+        "rating": 88,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Germany",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 232580,
+        "name": "Gabriel",
+        "rating": 88,
+        "club": "Arsenal",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 246669,
+        "name": "Bukayo Saka",
+        "rating": 88,
+        "club": "Arsenal",
+        "nation": "England",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 200389,
+        "name": "Jan Oblak",
+        "rating": 88,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Slovenia",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 257534,
+        "name": "Cole Palmer",
+        "rating": 87,
+        "club": "Chelsea",
+        "nation": "England",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 247635,
+        "name": "Khvicha Kvaratskhelia",
+        "rating": 87,
+        "club": "Paris SG",
+        "nation": "Georgia",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 237383,
+        "name": "Alessandro Bastoni",
+        "rating": 87,
+        "club": "Lombardia FC",
+        "nation": "Italy",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 215441,
+        "name": "Serhou Guirassy",
+        "rating": 87,
+        "club": "Borussia Dortmund",
+        "nation": "Guinea",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 192985,
+        "name": "Kevin De Bruyne",
+        "rating": 87,
+        "club": "SSC Napoli",
+        "nation": "Belgium",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 228702,
+        "name": "Frenkie de Jong",
+        "rating": 87,
+        "club": "FC Barcelona",
+        "nation": "Holland",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 256079,
+        "name": "Mois\u00e9s Caicedo",
+        "rating": 87,
+        "club": "Chelsea",
+        "nation": "Ecuador",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 234378,
+        "name": "Declan Rice",
+        "rating": 87,
+        "club": "Arsenal",
+        "nation": "England",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 207865,
+        "name": "Marquinhos",
+        "rating": 87,
+        "club": "Paris SG",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 177683,
+        "name": "Yann Sommer",
+        "rating": 87,
+        "club": "Lombardia FC",
+        "nation": "Switzerland",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 241486,
+        "name": "Jules Kound\u00e9",
+        "rating": 87,
+        "club": "FC Barcelona",
+        "nation": "France",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 212198,
+        "name": "Bruno Fernandes",
+        "rating": 87,
+        "club": "Man Utd",
+        "nation": "Portugal",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 243715,
+        "name": "William Saliba",
+        "rating": 87,
+        "club": "Arsenal",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 246191,
+        "name": "Juli\u00e1n Alvarez",
+        "rating": 87,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Argentina",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 213331,
+        "name": "Jonathan Tah",
+        "rating": 87,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 239837,
+        "name": "Alexis Mac Allister",
+        "rating": 87,
+        "club": "Liverpool",
+        "nation": "Argentina",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 215698,
+        "name": "Mike Maignan",
+        "rating": 87,
+        "club": "Milano FC",
+        "nation": "France",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 222665,
+        "name": "Martin \u00d8degaard",
+        "rating": 87,
+        "club": "Arsenal",
+        "nation": "Norway",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 220901,
+        "name": "David Raya",
+        "rating": 87,
+        "club": "Arsenal",
+        "nation": "Spain",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 241651,
+        "name": "Viktor Gy\u00f6keres",
+        "rating": 87,
+        "club": "Arsenal",
+        "nation": "Sweden",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 224232,
+        "name": "Nicol\u00f2 Barella",
+        "rating": 87,
+        "club": "Lombardia FC",
+        "nation": "Italy",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 232293,
+        "name": "Victor Osimhen",
+        "rating": 87,
+        "club": "Galatasaray",
+        "nation": "Nigeria",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 252145,
+        "name": "Nuno Mendes",
+        "rating": 86,
+        "club": "Paris SG",
+        "nation": "Portugal",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 205452,
+        "name": "Antonio R\u00fcdiger",
+        "rating": 86,
+        "club": "Real Madrid",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 247827,
+        "name": "Michael Olise",
+        "rating": 86,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "France",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 231281,
+        "name": "Trent Alexander-Arnold",
+        "rating": 86,
+        "club": "Real Madrid",
+        "nation": "England",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 239818,
+        "name": "R\u00faben Dias",
+        "rating": 86,
+        "club": "Manchester City",
+        "nation": "Portugal",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 211110,
+        "name": "Paulo Dybala",
+        "rating": 86,
+        "club": "AS Roma",
+        "nation": "Argentina",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 247851,
+        "name": "Bruno Guimar\u00e3es",
+        "rating": 86,
+        "club": "Newcastle Utd",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 256196,
+        "name": "Willian Pacho",
+        "rating": 86,
+        "club": "Paris SG",
+        "nation": "Ecuador",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 237678,
+        "name": "Ibrahima Konat\u00e9",
+        "rating": 86,
+        "club": "Liverpool",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 208128,
+        "name": "Hakan \u00c7alhano\u011flu",
+        "rating": 86,
+        "club": "Lombardia FC",
+        "nation": "Turkey",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 158023,
+        "name": "Lionel Messi",
+        "rating": 86,
+        "club": "Inter Miami CF",
+        "nation": "Argentina",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 241096,
+        "name": "Sandro Tonali",
+        "rating": 86,
+        "club": "Newcastle Utd",
+        "nation": "Italy",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 256516,
+        "name": "Nico Williams",
+        "rating": 86,
+        "club": "Athletic Club",
+        "nation": "Spain",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 240638,
+        "name": "Tijjani Reijnders",
+        "rating": 86,
+        "club": "Manchester City",
+        "nation": "Holland",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 192448,
+        "name": "Marc-Andr\u00e9 ter Stegen",
+        "rating": 86,
+        "club": "FC Barcelona",
+        "nation": "Germany",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 235073,
+        "name": "Gregor Kobel",
+        "rating": 86,
+        "club": "Borussia Dortmund",
+        "nation": "Switzerland",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 210257,
+        "name": "Ederson",
+        "rating": 85,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Brazil",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 226268,
+        "name": "Federico Dimarco",
+        "rating": 85,
+        "club": "Lombardia FC",
+        "nation": "Italy",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 237238,
+        "name": "Scott McTominay",
+        "rating": 85,
+        "club": "SSC Napoli",
+        "nation": "Scotland",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 246104,
+        "name": "Ryan Gravenberch",
+        "rating": 85,
+        "club": "Liverpool",
+        "nation": "Holland",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 202811,
+        "name": "Emiliano Mart\u00ednez",
+        "rating": 85,
+        "club": "Aston Villa",
+        "nation": "Argentina",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 272834,
+        "name": "Jo\u00e3o Neves",
+        "rating": 85,
+        "club": "Paris SG",
+        "nation": "Portugal",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 194765,
+        "name": "Antoine Griezmann",
+        "rating": 85,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 243014,
+        "name": "Bryan Mbeumo",
+        "rating": 85,
+        "club": "Man Utd",
+        "nation": "Cameroon",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 215914,
+        "name": "N'Golo Kant\u00e9",
+        "rating": 85,
+        "club": "Al Ittihad",
+        "nation": "France",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 271421,
+        "name": "D\u00e9sir\u00e9 Dou\u00e9",
+        "rating": 85,
+        "club": "Paris SG",
+        "nation": "France",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 204963,
+        "name": "Carvajal",
+        "rating": 85,
+        "club": "Real Madrid",
+        "nation": "Spain",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 230869,
+        "name": "Unai Sim\u00f3n",
+        "rating": 85,
+        "club": "Athletic Club",
+        "nation": "Spain",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 228093,
+        "name": "Marcus Thuram",
+        "rating": 85,
+        "club": "Lombardia FC",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 185122,
+        "name": "P\u00e9ter Gul\u00e1csi",
+        "rating": 85,
+        "club": "RB Leipzig",
+        "nation": "Hungary",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 241084,
+        "name": "Luis D\u00edaz",
+        "rating": 85,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Colombia",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 193080,
+        "name": "De Gea",
+        "rating": 85,
+        "club": "Fiorentina",
+        "nation": "Spain",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 247819,
+        "name": "Nico Schlotterbeck",
+        "rating": 85,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 200104,
+        "name": "Heung Min Son",
+        "rating": 85,
+        "club": "LAFC",
+        "nation": "Korea Republic",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 237692,
+        "name": "Phil Foden",
+        "rating": 85,
+        "club": "Manchester City",
+        "nation": "England",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 226271,
+        "name": "Fabi\u00e1n Ruiz",
+        "rating": 85,
+        "club": "Paris SG",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 216393,
+        "name": "Youri Tielemans",
+        "rating": 85,
+        "club": "Aston Villa",
+        "nation": "Belgium",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 199503,
+        "name": "Granit Xhaka",
+        "rating": 85,
+        "club": "Sunderland",
+        "nation": "Switzerland",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 165153,
+        "name": "Karim Benzema",
+        "rating": 85,
+        "club": "Al Ittihad",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 204525,
+        "name": "I\u00f1igo Mart\u00ednez",
+        "rating": 85,
+        "club": "Al Nassr",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 20801,
+        "name": "Cristiano Ronaldo",
+        "rating": 85,
+        "club": "Al Nassr",
+        "nation": "Portugal",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 243812,
+        "name": "Rodrygo",
+        "rating": 85,
+        "club": "Real Madrid",
+        "nation": "Brazil",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 244260,
+        "name": "Dani Olmo",
+        "rating": 85,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 229558,
+        "name": "Dayot Upamecano",
+        "rating": 85,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 234236,
+        "name": "Patrik Schick",
+        "rating": 85,
+        "club": "Leverkusen",
+        "nation": "Czech Republic",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 239580,
+        "name": "Bremer",
+        "rating": 85,
+        "club": "Juventus",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 232656,
+        "name": "Theo Hern\u00e1ndez",
+        "rating": 84,
+        "club": "Al Hilal",
+        "nation": "France",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 226161,
+        "name": "Marcos Llorente",
+        "rating": 84,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Spain",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 212616,
+        "name": "Rodrigo De Paul",
+        "rating": 84,
+        "club": "Inter Miami CF",
+        "nation": "Argentina",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 210514,
+        "name": "Jo\u00e3o Cancelo",
+        "rating": 84,
+        "club": "Al Hilal",
+        "nation": "Portugal",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 244675,
+        "name": "Sancet",
+        "rating": 84,
+        "club": "Athletic Club",
+        "nation": "Spain",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 234396,
+        "name": "Alphonso Davies",
+        "rating": 84,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Canada",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 204935,
+        "name": "Jordan Pickford",
+        "rating": 84,
+        "club": "Everton",
+        "nation": "England",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 233096,
+        "name": "Denzel Dumfries",
+        "rating": 84,
+        "club": "Lombardia FC",
+        "nation": "Holland",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 223848,
+        "name": "Sergej Milinkovi\u0107-Savi\u0107",
+        "rating": 84,
+        "club": "Al Hilal",
+        "nation": "Serbia",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 251517,
+        "name": "Jo\u0161ko Gvardiol",
+        "rating": 84,
+        "club": "Manchester City",
+        "nation": "Croatia",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 241637,
+        "name": "Aur\u00e9lien Tchouam\u00e9ni",
+        "rating": 84,
+        "club": "Real Madrid",
+        "nation": "France",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 239231,
+        "name": "Marc Cucurella",
+        "rating": 84,
+        "club": "Chelsea",
+        "nation": "Spain",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 210035,
+        "name": "Grimaldo",
+        "rating": 84,
+        "club": "Leverkusen",
+        "nation": "Spain",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 226851,
+        "name": "Benjamin Pavard",
+        "rating": 84,
+        "club": "OM",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 247090,
+        "name": "Enzo Fern\u00e1ndez",
+        "rating": 84,
+        "club": "Chelsea",
+        "nation": "Argentina",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 186153,
+        "name": "Wojciech Szcz\u0119sny",
+        "rating": 84,
+        "club": "FC Barcelona",
+        "nation": "Poland",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 257279,
+        "name": "\u00c1lex Baena",
+        "rating": 84,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Spain",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 220502,
+        "name": "Mattia Zaccagni",
+        "rating": 84,
+        "club": "Latium",
+        "nation": "Italy",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 262621,
+        "name": "Giorgi Mamardashvili",
+        "rating": 84,
+        "club": "Liverpool",
+        "nation": "Georgia",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 231521,
+        "name": "Exequiel Palacios",
+        "rating": 84,
+        "club": "Leverkusen",
+        "nation": "Argentina",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 245367,
+        "name": "Xavi Simons",
+        "rating": 84,
+        "club": "Spurs",
+        "nation": "Holland",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 167495,
+        "name": "Manuel Neuer",
+        "rating": 84,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Germany",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 224293,
+        "name": "R\u00faben Neves",
+        "rating": 84,
+        "club": "Al Hilal",
+        "nation": "Portugal",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 242516,
+        "name": "Cody Gakpo",
+        "rating": 84,
+        "club": "Liverpool",
+        "nation": "Holland",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 218667,
+        "name": "Bernardo Silva",
+        "rating": 84,
+        "club": "Manchester City",
+        "nation": "Portugal",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 222077,
+        "name": "Manuel Locatelli",
+        "rating": 84,
+        "club": "Juventus",
+        "nation": "Italy",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 227796,
+        "name": "Christian Pulisic",
+        "rating": 84,
+        "club": "Milano FC",
+        "nation": "United States",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 234577,
+        "name": "Diogo Costa",
+        "rating": 84,
+        "club": "FC Porto",
+        "nation": "Portugal",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 221697,
+        "name": "Ollie Watkins",
+        "rating": 84,
+        "club": "Aston Villa",
+        "nation": "England",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 220697,
+        "name": "James Maddison",
+        "rating": 84,
+        "club": "Spurs",
+        "nation": "England",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 252154,
+        "name": "Marco Carnesecchi",
+        "rating": 84,
+        "club": "Bergamo Calcio",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 256675,
+        "name": "Omar Marmoush",
+        "rating": 84,
+        "club": "Manchester City",
+        "nation": "Egypt",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 241721,
+        "name": "Rafael Le\u00e3o",
+        "rating": 84,
+        "club": "Milano FC",
+        "nation": "Portugal",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 240130,
+        "name": "\u00c9der Milit\u00e3o",
+        "rating": 84,
+        "club": "Real Madrid",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 192505,
+        "name": "Romelu Lukaku",
+        "rating": 84,
+        "club": "SSC Napoli",
+        "nation": "Belgium",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 197781,
+        "name": "Isco",
+        "rating": 84,
+        "club": "Real Betis",
+        "nation": "Spain",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 264652,
+        "name": "Bradley Barcola",
+        "rating": 84,
+        "club": "Paris SG",
+        "nation": "France",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 241852,
+        "name": "Moussa Diaby",
+        "rating": 84,
+        "club": "Al Ittihad",
+        "nation": "France",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 248550,
+        "name": "Vivian",
+        "rating": 84,
+        "club": "Athletic Club",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 230899,
+        "name": "Ademola Lookman",
+        "rating": 84,
+        "club": "Bergamo Calcio",
+        "nation": "Nigeria",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 204485,
+        "name": "Riyad Mahrez",
+        "rating": 84,
+        "club": "Al Ahli",
+        "nation": "Algeria",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 216549,
+        "name": "Alexander S\u00f8rloth",
+        "rating": 84,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Norway",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 199845,
+        "name": "Francesco Acerbi",
+        "rating": 84,
+        "club": "Lombardia FC",
+        "nation": "Italy",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 198176,
+        "name": "Stefan de Vrij",
+        "rating": 84,
+        "club": "Lombardia FC",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 204638,
+        "name": "Willi Orban",
+        "rating": 84,
+        "club": "RB Leipzig",
+        "nation": "Hungary",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 210008,
+        "name": "Adrien Rabiot",
+        "rating": 83,
+        "club": "Milano FC",
+        "nation": "France",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 248243,
+        "name": "Eduardo Camavinga",
+        "rating": 83,
+        "club": "Real Madrid",
+        "nation": "France",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 236772,
+        "name": "Dominik Szoboszlai",
+        "rating": 83,
+        "club": "Liverpool",
+        "nation": "Hungary",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 192883,
+        "name": "Henrikh Mkhitaryan",
+        "rating": 83,
+        "club": "Lombardia FC",
+        "nation": "Armenia",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 223959,
+        "name": "Lucas Torreira",
+        "rating": 83,
+        "club": "Galatasaray",
+        "nation": "Uruguay",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 217870,
+        "name": "Giovanni Di Lorenzo",
+        "rating": 83,
+        "club": "SSC Napoli",
+        "nation": "Italy",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 244669,
+        "name": "Morten Hjulmand",
+        "rating": 83,
+        "club": "Sporting CP",
+        "nation": "Denmark",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 247394,
+        "name": "Dejan Kulusevski",
+        "rating": 83,
+        "club": "Spurs",
+        "nation": "Sweden",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 225193,
+        "name": "Mikel Merino",
+        "rating": 83,
+        "club": "Arsenal",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 215590,
+        "name": "Ayoze",
+        "rating": 83,
+        "club": "Villarreal CF",
+        "nation": "Spain",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 216201,
+        "name": "I\u00f1aki Williams",
+        "rating": 83,
+        "club": "Athletic Club",
+        "nation": "Ghana",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 240950,
+        "name": "Pedro Gon\u00e7alves",
+        "rating": 83,
+        "club": "Sporting CP",
+        "nation": "Portugal",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 259532,
+        "name": "Joan Garc\u00eda",
+        "rating": 83,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 227127,
+        "name": "\u00c1lex Remiro",
+        "rating": 83,
+        "club": "Real Sociedad",
+        "nation": "Spain",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 247103,
+        "name": "D\u00e1vid Hancko",
+        "rating": 83,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Slovakia",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 242964,
+        "name": "Anthony Gordon",
+        "rating": 83,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 251752,
+        "name": "Lucas Chevalier",
+        "rating": 83,
+        "club": "Paris SG",
+        "nation": "France",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 207410,
+        "name": "Mateo Kova\u010di\u0107",
+        "rating": 83,
+        "club": "Manchester City",
+        "nation": "Croatia",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 228813,
+        "name": "Aleix Garc\u00eda",
+        "rating": 83,
+        "club": "Leverkusen",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 209989,
+        "name": "Thomas Partey",
+        "rating": 83,
+        "club": "Villarreal CF",
+        "nation": "Ghana",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 216435,
+        "name": "Stanislav Lobotka",
+        "rating": 83,
+        "club": "SSC Napoli",
+        "nation": "Slovakia",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 253149,
+        "name": "Jeremie Frimpong",
+        "rating": 83,
+        "club": "Liverpool",
+        "nation": "Holland",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 177003,
+        "name": "Luka Modri\u0107",
+        "rating": 83,
+        "club": "Milano FC",
+        "nation": "Croatia",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 208722,
+        "name": "Sadio Man\u00e9",
+        "rating": 83,
+        "club": "Al Nassr",
+        "nation": "Senegal",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 193698,
+        "name": "Oliver Baumann",
+        "rating": 83,
+        "club": "TSG Hoffenheim",
+        "nation": "Germany",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 240243,
+        "name": "Matheus Cunha",
+        "rating": 83,
+        "club": "Man Utd",
+        "nation": "Brazil",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 248148,
+        "name": "Zubimendi",
+        "rating": 83,
+        "club": "Arsenal",
+        "nation": "Spain",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 199641,
+        "name": "Matz Sels",
+        "rating": 83,
+        "club": "Nott'm Forest",
+        "nation": "Belgium",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 264240,
+        "name": "Gavi",
+        "rating": 83,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 235794,
+        "name": "Eberechi Eze",
+        "rating": 83,
+        "club": "Arsenal",
+        "nation": "England",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 263578,
+        "name": "Balde",
+        "rating": 83,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 186942,
+        "name": "\u0130lkay G\u00fcndo\u011fan",
+        "rating": 83,
+        "club": "Galatasaray",
+        "nation": "Germany",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 243580,
+        "name": "Lo\u00efs Openda",
+        "rating": 83,
+        "club": "Juventus",
+        "nation": "Belgium",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 229391,
+        "name": "Palhinha",
+        "rating": 83,
+        "club": "Spurs",
+        "nation": "Portugal",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 212194,
+        "name": "Julian Brandt",
+        "rating": 83,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 224371,
+        "name": "Jarrod Bowen",
+        "rating": 83,
+        "club": "West Ham",
+        "nation": "England",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 278016,
+        "name": "Murillo",
+        "rating": 83,
+        "club": "Nott'm Forest",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 236987,
+        "name": "Boubacar Kamara",
+        "rating": 83,
+        "club": "Aston Villa",
+        "nation": "France",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 208920,
+        "name": "Nathan Ak\u00e9",
+        "rating": 83,
+        "club": "Manchester City",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 241461,
+        "name": "Ferran Torres",
+        "rating": 83,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 250959,
+        "name": "Angelo Stiller",
+        "rating": 83,
+        "club": "VfB Stuttgart",
+        "nation": "Germany",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 256197,
+        "name": "Piero Hincapi\u00e9",
+        "rating": 83,
+        "club": "Arsenal",
+        "nation": "Ecuador",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 242458,
+        "name": "Artem Dovbyk",
+        "rating": 83,
+        "club": "AS Roma",
+        "nation": "Ukraine",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 257289,
+        "name": "Hugo Ekitik\u00e9",
+        "rating": 83,
+        "club": "Liverpool",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 192629,
+        "name": "Iago Aspas",
+        "rating": 83,
+        "club": "Celta",
+        "nation": "Spain",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 236610,
+        "name": "Moise Kean",
+        "rating": 83,
+        "club": "Fiorentina",
+        "nation": "Italy",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 253163,
+        "name": "Ronald Araujo",
+        "rating": 83,
+        "club": "FC Barcelona",
+        "nation": "Uruguay",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 213345,
+        "name": "Kingsley Coman",
+        "rating": 83,
+        "club": "Al Nassr",
+        "nation": "France",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 207421,
+        "name": "Leandro Trossard",
+        "rating": 83,
+        "club": "Arsenal",
+        "nation": "Belgium",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 231936,
+        "name": "Benjamin White",
+        "rating": 83,
+        "club": "Arsenal",
+        "nation": "England",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 241850,
+        "name": "Mateo Retegui",
+        "rating": 83,
+        "club": "Al Qadsiah",
+        "nation": "Italy",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 216460,
+        "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "rating": 83,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Uruguay",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 229582,
+        "name": "Gianluca Mancini",
+        "rating": 83,
+        "club": "AS Roma",
+        "nation": "Italy",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 244263,
+        "name": "Amir Rrahmani",
+        "rating": 83,
+        "club": "SSC Napoli",
+        "nation": "Kosovo",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 238095,
+        "name": "Nikola Milenkovi\u0107",
+        "rating": 83,
+        "club": "Nott'm Forest",
+        "nation": "Serbia",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 233486,
+        "name": "Robin Le Normand",
+        "rating": 83,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 209658,
+        "name": "Leon Goretzka",
+        "rating": 82,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Germany",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 223334,
+        "name": "Joelinton",
+        "rating": 82,
+        "club": "Newcastle Utd",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 246863,
+        "name": "Felix Nmecha",
+        "rating": 82,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 227236,
+        "name": "Andr\u00e9-Franck Zambo Anguissa",
+        "rating": 82,
+        "club": "SSC Napoli",
+        "nation": "Cameroon",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 266866,
+        "name": "\u00c9derson",
+        "rating": 82,
+        "club": "Bergamo Calcio",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 208333,
+        "name": "Emre Can",
+        "rating": 82,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 243245,
+        "name": "Orkun K\u00f6k\u00e7\u00fc",
+        "rating": 82,
+        "club": "Be\u015fikta\u015f",
+        "nation": "Turkey",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 243576,
+        "name": "Pedro Porro",
+        "rating": 82,
+        "club": "Spurs",
+        "nation": "Spain",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 229261,
+        "name": "Denis Zakaria",
+        "rating": 82,
+        "club": "AS Monaco",
+        "nation": "Switzerland",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 260247,
+        "name": "Morgan Rogers",
+        "rating": 82,
+        "club": "Aston Villa",
+        "nation": "England",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 230872,
+        "name": "Mile Svilar",
+        "rating": 82,
+        "club": "AS Roma",
+        "nation": "Serbia",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 256853,
+        "name": "Malik Tillman",
+        "rating": 82,
+        "club": "Leverkusen",
+        "nation": "United States",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 210411,
+        "name": "Ot\u00e1vio",
+        "rating": 82,
+        "club": "Al Qadsiah",
+        "nation": "Portugal",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 210602,
+        "name": "Salem Al Dawsari",
+        "rating": 82,
+        "club": "Al Hilal",
+        "nation": "Saudi Arabia",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 225375,
+        "name": "Konrad Laimer",
+        "rating": 82,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Austria",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 236496,
+        "name": "Matt\u00e9o Guendouzi",
+        "rating": 82,
+        "club": "Latium",
+        "nation": "France",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 225201,
+        "name": "\u00c1lex Berenguer",
+        "rating": 82,
+        "club": "Athletic Club",
+        "nation": "Spain",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 236703,
+        "name": "David Raum",
+        "rating": 82,
+        "club": "RB Leipzig",
+        "nation": "Germany",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 197445,
+        "name": "David Alaba",
+        "rating": 82,
+        "club": "Real Madrid",
+        "nation": "Austria",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 215316,
+        "name": "Ger\u00f3nimo Rulli",
+        "rating": 82,
+        "club": "OM",
+        "nation": "Argentina",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 260908,
+        "name": "Milos Kerkez",
+        "rating": 82,
+        "club": "Liverpool",
+        "nation": "Hungary",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 240091,
+        "name": "Guglielmo Vicario",
+        "rating": 82,
+        "club": "Spurs",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 226226,
+        "name": "Giovani Lo Celso",
+        "rating": 82,
+        "club": "Real Betis",
+        "nation": "Argentina",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 224987,
+        "name": "Ivan Provedel",
+        "rating": 82,
+        "club": "Latium",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 236015,
+        "name": "Morgan Gibbs-White",
+        "rating": 82,
+        "club": "Nott'm Forest",
+        "nation": "England",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 227647,
+        "name": "Maximilian Mittelst\u00e4dt",
+        "rating": 82,
+        "club": "VfB Stuttgart",
+        "nation": "Germany",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 272449,
+        "name": "Pablo Barrios",
+        "rating": 82,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 192984,
+        "name": "Koen Casteels",
+        "rating": 82,
+        "club": "Al Qadsiah",
+        "nation": "Belgium",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 225116,
+        "name": "Alex Meret",
+        "rating": 82,
+        "club": "SSC Napoli",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 216267,
+        "name": "Andrew Robertson",
+        "rating": 82,
+        "club": "Liverpool",
+        "nation": "Scotland",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 220793,
+        "name": "Davinson S\u00e1nchez",
+        "rating": 82,
+        "club": "Galatasaray",
+        "nation": "Colombia",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 222737,
+        "name": "Malcom",
+        "rating": 82,
+        "club": "Al Hilal",
+        "nation": "Brazil",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 209981,
+        "name": "Yassine Bounou",
+        "rating": 82,
+        "club": "Al Hilal",
+        "nation": "Morocco",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 229348,
+        "name": "Antonee Robinson",
+        "rating": 82,
+        "club": "Fulham",
+        "nation": "United States",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 255565,
+        "name": "Kaoru Mitoma",
+        "rating": 82,
+        "club": "Brighton",
+        "nation": "Japan",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 229188,
+        "name": "Vangelis Pavlidis",
+        "rating": 82,
+        "club": "SL Benfica",
+        "nation": "Greece",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 209499,
+        "name": "Fabinho",
+        "rating": 82,
+        "club": "Al Ittihad",
+        "nation": "Brazil",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 233556,
+        "name": "Riccardo Orsolini",
+        "rating": 82,
+        "club": "Bologna",
+        "nation": "Italy",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 264453,
+        "name": "Micky van de Ven",
+        "rating": 82,
+        "club": "Spurs",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 222492,
+        "name": "Leroy San\u00e9",
+        "rating": 82,
+        "club": "Galatasaray",
+        "nation": "Germany",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 227678,
+        "name": "Ezri Konsa",
+        "rating": 82,
+        "club": "Aston Villa",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 251470,
+        "name": "Charles De Ketelaere",
+        "rating": 82,
+        "club": "Bergamo Calcio",
+        "nation": "Belgium",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 251805,
+        "name": "Jurri\u00ebn Timber",
+        "rating": 82,
+        "club": "Arsenal",
+        "nation": "Holland",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 244778,
+        "name": "Trinc\u00e3o",
+        "rating": 82,
+        "club": "Sporting CP",
+        "nation": "Portugal",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 206113,
+        "name": "Serge Gnabry",
+        "rating": 82,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Germany",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 244257,
+        "name": "Jonathan Burkardt",
+        "rating": 82,
+        "club": "Frankfurt",
+        "nation": "Germany",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 210047,
+        "name": "Fabian Sch\u00e4r",
+        "rating": 82,
+        "club": "Newcastle Utd",
+        "nation": "Switzerland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 213648,
+        "name": "Pierre-Emile H\u00f8jbjerg",
+        "rating": 82,
+        "club": "OM",
+        "nation": "Denmark",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 235790,
+        "name": "Kai Havertz",
+        "rating": 82,
+        "club": "Arsenal",
+        "nation": "Germany",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 278349,
+        "name": "Dean Huijsen",
+        "rating": 82,
+        "club": "Real Madrid",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 216547,
+        "name": "Rafa",
+        "rating": 82,
+        "club": "Be\u015fikta\u015f",
+        "nation": "Portugal",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 230142,
+        "name": "Oyarzabal",
+        "rating": 82,
+        "club": "Real Sociedad",
+        "nation": "Spain",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 237681,
+        "name": "Takefusa Kubo",
+        "rating": 82,
+        "club": "Real Sociedad",
+        "nation": "Japan",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 183898,
+        "name": "\u00c1ngel Di Mar\u00eda",
+        "rating": 82,
+        "club": "Rosario Central",
+        "nation": "Argentina",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 192318,
+        "name": "Mario G\u00f6tze",
+        "rating": 82,
+        "club": "Frankfurt",
+        "nation": "Germany",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 210935,
+        "name": "Domenico Berardi",
+        "rating": 82,
+        "club": "Sassuolo",
+        "nation": "Italy",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 236461,
+        "name": "Jean-Philippe Mateta",
+        "rating": 82,
+        "club": "Crystal Palace",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 203574,
+        "name": "John Stones",
+        "rating": 82,
+        "club": "Manchester City",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 229237,
+        "name": "Manuel Akanji",
+        "rating": 82,
+        "club": "Lombardia FC",
+        "nation": "Switzerland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 243630,
+        "name": "Jonathan David",
+        "rating": 82,
+        "club": "Juventus",
+        "nation": "Canada",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 246147,
+        "name": "Mason Greenwood",
+        "rating": 82,
+        "club": "OM",
+        "nation": "England",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 189513,
+        "name": "Parejo",
+        "rating": 82,
+        "club": "Villarreal CF",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 231416,
+        "name": "Dodi Luk\u00e9bakio",
+        "rating": 82,
+        "club": "SL Benfica",
+        "nation": "Belgium",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 232639,
+        "name": "Ritsu Doan",
+        "rating": 82,
+        "club": "Frankfurt",
+        "nation": "Japan",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 234824,
+        "name": "Yoane Wissa",
+        "rating": 82,
+        "club": "Newcastle Utd",
+        "nation": "Congo DR",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 246430,
+        "name": "Du\u0161an Vlahovi\u0107",
+        "rating": 82,
+        "club": "Juventus",
+        "nation": "Serbia",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 229476,
+        "name": "Waldemar Anton",
+        "rating": 82,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 235243,
+        "name": "Matthijs de Ligt",
+        "rating": 82,
+        "club": "Man Utd",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 201024,
+        "name": "Kalidou Koulibaly",
+        "rating": 82,
+        "club": "Al Hilal",
+        "nation": "Senegal",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 235410,
+        "name": "Youssef En-Nesyri",
+        "rating": 82,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Morocco",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 278046,
+        "name": "Pau Cubars\u00ed",
+        "rating": 82,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 215333,
+        "name": "Duv\u00e1n Zapata",
+        "rating": 82,
+        "club": "Torino",
+        "nation": "Colombia",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 192366,
+        "name": "Nicol\u00e1s Otamendi",
+        "rating": 82,
+        "club": "SL Benfica",
+        "nation": "Argentina",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 241159,
+        "name": "Marc Gu\u00e9hi",
+        "rating": 82,
+        "club": "Crystal Palace",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 200724,
+        "name": "Nacho Fern\u00e1ndez",
+        "rating": 82,
+        "club": "Al Qadsiah",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 207862,
+        "name": "Matthias Ginter",
+        "rating": 82,
+        "club": "SC Freiburg",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 231410,
+        "name": "Brahim",
+        "rating": 82,
+        "club": "Real Madrid",
+        "nation": "Morocco",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 243241,
+        "name": "Alessandro Buongiorno",
+        "rating": 82,
+        "club": "SSC Napoli",
+        "nation": "Italy",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 212218,
+        "name": "Aymeric Laporte",
+        "rating": 82,
+        "club": "Al Nassr",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 232488,
+        "name": "Cristian Romero",
+        "rating": 82,
+        "club": "Spurs",
+        "nation": "Argentina",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 270409,
+        "name": "Savinho",
+        "rating": 82,
+        "club": "Manchester City",
+        "nation": "Brazil",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 236532,
+        "name": "Robin Koch",
+        "rating": 82,
+        "club": "Frankfurt",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 188335,
+        "name": "Ante Budimir",
+        "rating": 82,
+        "club": "CA Osasuna",
+        "nation": "Croatia",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 192123,
+        "name": "Chris Wood",
+        "rating": 82,
+        "club": "Nott'm Forest",
+        "nation": "New Zealand",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 247257,
+        "name": "Iba\u00f1ez",
+        "rating": 82,
+        "club": "Al Ahli",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 237086,
+        "name": "Kim Min Jae",
+        "rating": 82,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Korea Republic",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 210413,
+        "name": "Alessio Romagnoli",
+        "rating": 82,
+        "club": "Latium",
+        "nation": "Italy",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 251809,
+        "name": "Sven Botman",
+        "rating": 82,
+        "club": "Newcastle Utd",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 247246,
+        "name": "Kh\u00e9phren Thuram",
+        "rating": 81,
+        "club": "Juventus",
+        "nation": "France",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 238216,
+        "name": "Conor Gallagher",
+        "rating": 81,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "England",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 238074,
+        "name": "Reece James",
+        "rating": 81,
+        "club": "Chelsea",
+        "nation": "England",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 208574,
+        "name": "Filip Kosti\u0107",
+        "rating": 81,
+        "club": "Juventus",
+        "nation": "Serbia",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 202648,
+        "name": "Sergi Darder",
+        "rating": 81,
+        "club": "RCD Mallorca",
+        "nation": "Spain",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 210881,
+        "name": "John McGinn",
+        "rating": 81,
+        "club": "Aston Villa",
+        "nation": "Scotland",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 239807,
+        "name": "Davide Frattesi",
+        "rating": 81,
+        "club": "Lombardia FC",
+        "nation": "Italy",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 235840,
+        "name": "Michele Di Gregorio",
+        "rating": 81,
+        "club": "Juventus",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 258648,
+        "name": "Carlos Augusto",
+        "rating": 81,
+        "club": "Lombardia FC",
+        "nation": "Brazil",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 261865,
+        "name": "Miguel Guti\u00e9rrez",
+        "rating": 81,
+        "club": "SSC Napoli",
+        "nation": "Spain",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 228618,
+        "name": "Ferland Mendy",
+        "rating": 81,
+        "club": "Real Madrid",
+        "nation": "France",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 240679,
+        "name": "Teun Koopmeiners",
+        "rating": 81,
+        "club": "Juventus",
+        "nation": "Holland",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 181458,
+        "name": "Ivan Peri\u0161i\u0107",
+        "rating": 81,
+        "club": "PSV",
+        "nation": "Croatia",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 234060,
+        "name": "Yangel Herrera",
+        "rating": 81,
+        "club": "Real Sociedad",
+        "nation": "Venezuela",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 272500,
+        "name": "Carlos Baleba",
+        "rating": 81,
+        "club": "Brighton",
+        "nation": "Cameroon",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 219683,
+        "name": "Corentin Tolisso",
+        "rating": 81,
+        "club": "OL",
+        "nation": "France",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 208418,
+        "name": "Yannick Carrasco",
+        "rating": 81,
+        "club": "Al Shabab",
+        "nation": "Belgium",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 233306,
+        "name": "Dean Henderson",
+        "rating": 81,
+        "club": "Crystal Palace",
+        "nation": "England",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 237646,
+        "name": "Daniel Mu\u00f1oz",
+        "rating": 81,
+        "club": "Crystal Palace",
+        "nation": "Colombia",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 208461,
+        "name": "Marten de Roon",
+        "rating": 81,
+        "club": "Bergamo Calcio",
+        "nation": "Holland",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 216352,
+        "name": "Marcelo Brozovi\u0107",
+        "rating": 81,
+        "club": "Al Nassr",
+        "nation": "Croatia",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 235944,
+        "name": "Brais M\u00e9ndez",
+        "rating": 81,
+        "club": "Real Sociedad",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 259516,
+        "name": "Johnny Cardoso",
+        "rating": 81,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "United States",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 223885,
+        "name": "Alexander N\u00fcbel",
+        "rating": 81,
+        "club": "VfB Stuttgart",
+        "nation": "Germany",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 206085,
+        "name": "Jacob Murphy",
+        "rating": 81,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 193747,
+        "name": "Koke",
+        "rating": 81,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 212242,
+        "name": "Robert Andrich",
+        "rating": 81,
+        "club": "Leverkusen",
+        "nation": "Germany",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 245630,
+        "name": "Youssouf Fofana",
+        "rating": 81,
+        "club": "Milano FC",
+        "nation": "France",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 242641,
+        "name": "Rayan A\u00eft-Nouri",
+        "rating": 81,
+        "club": "Manchester City",
+        "nation": "Algeria",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 211688,
+        "name": "Gay\u00e0",
+        "rating": 81,
+        "club": "Valencia CF",
+        "nation": "Spain",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 251566,
+        "name": "Gabriel Martinelli",
+        "rating": 81,
+        "club": "Arsenal",
+        "nation": "Brazil",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 253396,
+        "name": "Giuliano Simeone",
+        "rating": 81,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Argentina",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 188943,
+        "name": "Kevin Trapp",
+        "rating": 81,
+        "club": "Paris FC",
+        "nation": "Germany",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 212523,
+        "name": "Anderson Talisca",
+        "rating": 81,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Brazil",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 225309,
+        "name": "Nadiem Amiri",
+        "rating": 81,
+        "club": "1. FSV Mainz 05",
+        "nation": "Germany",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 203841,
+        "name": "Nick Pope",
+        "rating": 81,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 212228,
+        "name": "Ivan Toney",
+        "rating": 81,
+        "club": "Al Ahli",
+        "nation": "England",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 223952,
+        "name": "David Soria",
+        "rating": 81,
+        "club": "Getafe CF",
+        "nation": "Spain",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 235805,
+        "name": "Federico Chiesa",
+        "rating": 81,
+        "club": "Liverpool",
+        "nation": "Italy",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 239301,
+        "name": "Lisandro Mart\u00ednez",
+        "rating": 81,
+        "club": "Man Utd",
+        "nation": "Argentina",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 239482,
+        "name": "Galeno",
+        "rating": 81,
+        "club": "Al Ahli",
+        "nation": "Brazil",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 243952,
+        "name": "Andriy Lunin",
+        "rating": 81,
+        "club": "Real Madrid",
+        "nation": "Ukraine",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 255475,
+        "name": "Antony",
+        "rating": 81,
+        "club": "Real Betis",
+        "nation": "Brazil",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 184392,
+        "name": "Matteo Darmian",
+        "rating": 81,
+        "club": "Lombardia FC",
+        "nation": "Italy",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 216409,
+        "name": "Matteo Politano",
+        "rating": 81,
+        "club": "SSC Napoli",
+        "nation": "Italy",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 230670,
+        "name": "Lucas Perri",
+        "rating": 81,
+        "club": "Leeds United",
+        "nation": "Brazil",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 202024,
+        "name": "Remo Freuler",
+        "rating": 81,
+        "club": "Bologna",
+        "nation": "Switzerland",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 213516,
+        "name": "Ricardo Horta",
+        "rating": 81,
+        "club": "SC Braga",
+        "nation": "Portugal",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 208093,
+        "name": "Gerard Moreno",
+        "rating": 81,
+        "club": "Villarreal CF",
+        "nation": "Spain",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 210385,
+        "name": "Rui Silva",
+        "rating": 81,
+        "club": "Sporting CP",
+        "nation": "Portugal",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 222509,
+        "name": "Dani Ceballos",
+        "rating": 81,
+        "club": "Real Madrid",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 247263,
+        "name": "Edmond Tapsoba",
+        "rating": 81,
+        "club": "Leverkusen",
+        "nation": "Burkina Faso",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 251852,
+        "name": "Karim Adeyemi",
+        "rating": 81,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 257470,
+        "name": "Anthony Elanga",
+        "rating": 81,
+        "club": "Newcastle Utd",
+        "nation": "Sweden",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 190941,
+        "name": "Luk\u00e1\u0161 Hr\u00e1deck\u00fd",
+        "rating": 81,
+        "club": "AS Monaco",
+        "nation": "Finland",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 236632,
+        "name": "David Neres",
+        "rating": 81,
+        "club": "SSC Napoli",
+        "nation": "Brazil",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 236403,
+        "name": "Evan Ndicka",
+        "rating": 81,
+        "club": "AS Roma",
+        "nation": "C\u00f4te d'Ivoire",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 232498,
+        "name": "Isi",
+        "rating": 81,
+        "club": "Rayo Vallecano",
+        "nation": "Spain",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 210676,
+        "name": "Wladimiro Falcone",
+        "rating": 81,
+        "club": "Lecce",
+        "nation": "Italy",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 220814,
+        "name": "Lucas Hern\u00e1ndez",
+        "rating": 81,
+        "club": "Paris SG",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 237679,
+        "name": "Randal Kolo Muani",
+        "rating": 81,
+        "club": "Spurs",
+        "nation": "France",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 201153,
+        "name": "Morata",
+        "rating": 81,
+        "club": "Como",
+        "nation": "Spain",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 257179,
+        "name": "Gon\u00e7alo In\u00e1cio",
+        "rating": 81,
+        "club": "Sporting CP",
+        "nation": "Portugal",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 242835,
+        "name": "Leonardo Balerdi",
+        "rating": 81,
+        "club": "OM",
+        "nation": "Argentina",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 216354,
+        "name": "Andrej Kramari\u0107",
+        "rating": 81,
+        "club": "TSG Hoffenheim",
+        "nation": "Croatia",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 232411,
+        "name": "Christopher Nkunku",
+        "rating": 81,
+        "club": "Milano FC",
+        "nation": "France",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 243854,
+        "name": "Mohamed Simakan",
+        "rating": 81,
+        "club": "Al Nassr",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 200888,
+        "name": "Danilo Pereira",
+        "rating": 81,
+        "club": "Al Ittihad",
+        "nation": "Portugal",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 264309,
+        "name": "Arda G\u00fcler",
+        "rating": 81,
+        "club": "Real Madrid",
+        "nation": "Turkey",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 188567,
+        "name": "Pierre-Emerick Aubameyang",
+        "rating": 81,
+        "club": "OM",
+        "nation": "Gabon",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 214096,
+        "name": "Tim Kleindienst",
+        "rating": 81,
+        "club": "M'gladbach",
+        "nation": "Germany",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 231652,
+        "name": "Simon Banza",
+        "rating": 81,
+        "club": "SC Braga",
+        "nation": "Congo DR",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 244749,
+        "name": "Nayef Aguerd",
+        "rating": 81,
+        "club": "OM",
+        "nation": "Morocco",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 247679,
+        "name": "Victor Boniface",
+        "rating": 81,
+        "club": "SV Werder Bremen",
+        "nation": "Nigeria",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 201399,
+        "name": "Mauro Icardi",
+        "rating": 81,
+        "club": "Galatasaray",
+        "nation": "Argentina",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 232756,
+        "name": "Fikayo Tomori",
+        "rating": 81,
+        "club": "Milano FC",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 212190,
+        "name": "Niklas S\u00fcle",
+        "rating": 81,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 251570,
+        "name": "Rayan Cherki",
+        "rating": 81,
+        "club": "Manchester City",
+        "nation": "France",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 180930,
+        "name": "Edin D\u017eeko",
+        "rating": 81,
+        "club": "Fiorentina",
+        "nation": "Bosnia and Herzegovina",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 232363,
+        "name": "Milan \u0160kriniar",
+        "rating": 81,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Slovakia",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 228805,
+        "name": "Ra\u00edllo",
+        "rating": 81,
+        "club": "RCD Mallorca",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 263205,
+        "name": "Bar\u0131\u015f Alper Y\u0131lmaz",
+        "rating": 80,
+        "club": "Galatasaray",
+        "nation": "Turkey",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 213666,
+        "name": "Ruben Loftus-Cheek",
+        "rating": 80,
+        "club": "Milano FC",
+        "nation": "England",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 230938,
+        "name": "Franck Yannick Kessi\u00e9",
+        "rating": 80,
+        "club": "Al Ahli",
+        "nation": "C\u00f4te d'Ivoire",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 251806,
+        "name": "Quinten Timber",
+        "rating": 80,
+        "club": "Feyenoord",
+        "nation": "Holland",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 204923,
+        "name": "Marcel Sabitzer",
+        "rating": 80,
+        "club": "Borussia Dortmund",
+        "nation": "Austria",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 226753,
+        "name": "Andr\u00e9 Onana",
+        "rating": 80,
+        "club": "Man Utd",
+        "nation": "Cameroon",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 231913,
+        "name": "Fredrik Aursnes",
+        "rating": 80,
+        "club": "SL Benfica",
+        "nation": "Norway",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 226754,
+        "name": "Isma\u00ebl Bennacer",
+        "rating": 80,
+        "club": "Dinamo Zagreb",
+        "nation": "Algeria",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 209297,
+        "name": "Fred",
+        "rating": 80,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 228251,
+        "name": "Lorenzo Pellegrini",
+        "rating": 80,
+        "club": "AS Roma",
+        "nation": "Italy",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 251479,
+        "name": "Maxim De Cuyper",
+        "rating": 80,
+        "club": "Brighton",
+        "nation": "Belgium",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 259583,
+        "name": "Destiny Udogie",
+        "rating": 80,
+        "club": "Spurs",
+        "nation": "Italy",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 245155,
+        "name": "Mohammed Kudus",
+        "rating": 80,
+        "club": "Spurs",
+        "nation": "Ghana",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 268889,
+        "name": "\u00c1lvaro Carreras",
+        "rating": 80,
+        "club": "Real Madrid",
+        "nation": "Spain",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 270571,
+        "name": "Gabriel Sara",
+        "rating": 80,
+        "club": "Galatasaray",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 270673,
+        "name": "Warren Za\u00efre-Emery",
+        "rating": 80,
+        "club": "Paris SG",
+        "nation": "France",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 232665,
+        "name": "Mauro Arambarri",
+        "rating": 80,
+        "club": "Getafe CF",
+        "nation": "Uruguay",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 242434,
+        "name": "Curtis Jones",
+        "rating": 80,
+        "club": "Liverpool",
+        "nation": "England",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 254243,
+        "name": "Elliot Anderson",
+        "rating": 80,
+        "club": "Nott'm Forest",
+        "nation": "England",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 233927,
+        "name": "Lucas Paquet\u00e1",
+        "rating": 80,
+        "club": "West Ham",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 259694,
+        "name": "Mingueza",
+        "rating": 80,
+        "club": "Celta",
+        "nation": "Spain",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 273018,
+        "name": "Andrey Santos",
+        "rating": 80,
+        "club": "Chelsea",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 204883,
+        "name": "Brice Samba",
+        "rating": 80,
+        "club": "Stade Rennais FC",
+        "nation": "France",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 224656,
+        "name": "Ola Aina",
+        "rating": 80,
+        "club": "Nott'm Forest",
+        "nation": "Nigeria",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 239093,
+        "name": "Jonathan Clauss",
+        "rating": 80,
+        "club": "OGC Nice",
+        "nation": "France",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 192563,
+        "name": "Bernd Leno",
+        "rating": 80,
+        "club": "Fulham",
+        "nation": "Germany",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 223697,
+        "name": "Robin Gosens",
+        "rating": 80,
+        "club": "Fiorentina",
+        "nation": "Germany",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 236499,
+        "name": "Douglas Luiz",
+        "rating": 80,
+        "club": "Nott'm Forest",
+        "nation": "Brazil",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 259913,
+        "name": "Georgiy Sudakov",
+        "rating": 80,
+        "club": "SL Benfica",
+        "nation": "Ukraine",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 209889,
+        "name": "Rapha\u00ebl Guerreiro",
+        "rating": 80,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Portugal",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 223273,
+        "name": "Mario Pa\u0161ali\u0107",
+        "rating": 80,
+        "club": "Bergamo Calcio",
+        "nation": "Croatia",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 236401,
+        "name": "Noussair Mazraoui",
+        "rating": 80,
+        "club": "Man Utd",
+        "nation": "Morocco",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 241671,
+        "name": "Dominik Livakovi\u0107",
+        "rating": 80,
+        "club": "Girona FC",
+        "nation": "Croatia",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 252802,
+        "name": "Wilfried Singo",
+        "rating": 80,
+        "club": "Galatasaray",
+        "nation": "C\u00f4te d'Ivoire",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 226300,
+        "name": "U\u011furcan \u00c7ak\u0131r",
+        "rating": 80,
+        "club": "Galatasaray",
+        "nation": "Turkey",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 233195,
+        "name": "Xaver Schlager",
+        "rating": 80,
+        "club": "RB Leipzig",
+        "nation": "Austria",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 200458,
+        "name": "Lucas Digne",
+        "rating": 80,
+        "club": "Aston Villa",
+        "nation": "France",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 210406,
+        "name": "Piotr Zieli\u0144ski",
+        "rating": 80,
+        "club": "Lombardia FC",
+        "nation": "Poland",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 186345,
+        "name": "Kieran Trippier",
+        "rating": 80,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 205157,
+        "name": "Ruiz de Galarreta",
+        "rating": 80,
+        "club": "Athletic Club",
+        "nation": "Spain",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 250753,
+        "name": "Anatoliy Trubin",
+        "rating": 80,
+        "club": "SL Benfica",
+        "nation": "Ukraine",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 225126,
+        "name": "Ellyes Skhiri",
+        "rating": 80,
+        "club": "Frankfurt",
+        "nation": "Tunisia",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 227535,
+        "name": "Rodrigo Bentancur",
+        "rating": 80,
+        "club": "Spurs",
+        "nation": "Uruguay",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 208268,
+        "name": "Bryan Cristante",
+        "rating": 80,
+        "club": "AS Roma",
+        "nation": "Italy",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 231591,
+        "name": "Javi Gal\u00e1n",
+        "rating": 80,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "Spain",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 213655,
+        "name": "Alex Iwobi",
+        "rating": 80,
+        "club": "Fulham",
+        "nation": "Nigeria",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 241508,
+        "name": "Mikkel Damsgaard",
+        "rating": 80,
+        "club": "Brentford",
+        "nation": "Denmark",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 266127,
+        "name": "Lewis Hall",
+        "rating": 80,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "LB"
+        ]
+    },
+    {
+        "id": 201269,
+        "name": "Frederik R\u00f8nnow",
+        "rating": 80,
+        "club": "Union Berlin",
+        "nation": "Denmark",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 264697,
+        "name": "Mohamed Amoura",
+        "rating": 80,
+        "club": "VfL Wolfsburg",
+        "nation": "Algeria",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 73562,
+        "name": "Bento",
+        "rating": 80,
+        "club": "Al Nassr",
+        "nation": "Brazil",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 220876,
+        "name": "Franck Honorat",
+        "rating": 80,
+        "club": "M'gladbach",
+        "nation": "France",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 234579,
+        "name": "Julian Qui\u00f1ones",
+        "rating": 80,
+        "club": "Al Qadsiah",
+        "nation": "Mexico",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 190765,
+        "name": "Pascal Gro\u00df",
+        "rating": 80,
+        "club": "Borussia Dortmund",
+        "nation": "Germany",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 254796,
+        "name": "Noni Madueke",
+        "rating": 80,
+        "club": "Arsenal",
+        "nation": "England",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 206517,
+        "name": "Jack Grealish",
+        "rating": 80,
+        "club": "Everton",
+        "nation": "England",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 228579,
+        "name": "Benjamin Henrichs",
+        "rating": 80,
+        "club": "RB Leipzig",
+        "nation": "Germany",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 262118,
+        "name": "Tino Livramento",
+        "rating": 80,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 239380,
+        "name": "Noa Lang",
+        "rating": 80,
+        "club": "SSC Napoli",
+        "nation": "Holland",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 260592,
+        "name": "Benjamin \u0160e\u0161ko",
+        "rating": 80,
+        "club": "Man Utd",
+        "nation": "Slovenia",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 269626,
+        "name": "\u0110or\u0111e Petrovi\u0107",
+        "rating": 80,
+        "club": "AFC Bournemouth",
+        "nation": "Serbia",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 238616,
+        "name": "Pedro Neto",
+        "rating": 80,
+        "club": "Chelsea",
+        "nation": "Portugal",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 241236,
+        "name": "Antoine Semenyo",
+        "rating": 80,
+        "club": "AFC Bournemouth",
+        "nation": "Ghana",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 190674,
+        "name": "Benjamin Andr\u00e9",
+        "rating": 80,
+        "club": "LOSC Lille",
+        "nation": "France",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 225953,
+        "name": "Steven Bergwijn",
+        "rating": 80,
+        "club": "Al Ittihad",
+        "nation": "Holland",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 230666,
+        "name": "Gabriel Jesus",
+        "rating": 80,
+        "club": "Arsenal",
+        "nation": "Brazil",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 234742,
+        "name": "Harvey Barnes",
+        "rating": 80,
+        "club": "Newcastle Utd",
+        "nation": "England",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 229880,
+        "name": "Aaron Wan-Bissaka",
+        "rating": 80,
+        "club": "West Ham",
+        "nation": "Congo DR",
+        "slots": [
+            "RB"
+        ]
+    },
+    {
+        "id": 255654,
+        "name": "Pierre Kalulu",
+        "rating": 80,
+        "club": "Juventus",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 237712,
+        "name": "Valentin Castellanos",
+        "rating": 80,
+        "club": "Latium",
+        "nation": "Argentina",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 226110,
+        "name": "Nicolas P\u00e9p\u00e9",
+        "rating": 80,
+        "club": "Villarreal CF",
+        "nation": "C\u00f4te d'Ivoire",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 246242,
+        "name": "Boulaye Dia",
+        "rating": 80,
+        "club": "Latium",
+        "nation": "Senegal",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 229668,
+        "name": "Mario Hermoso",
+        "rating": 80,
+        "club": "AS Roma",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 234642,
+        "name": "\u00c9douard Mendy",
+        "rating": 80,
+        "club": "Al Ahli",
+        "nation": "Senegal",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 238900,
+        "name": "Ermedin Demirovi\u0107",
+        "rating": 80,
+        "club": "VfB Stuttgart",
+        "nation": "Bosnia and Herzegovina",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 241727,
+        "name": "Predrag Rajkovi\u0107",
+        "rating": 80,
+        "club": "Al Ittihad",
+        "nation": "Serbia",
+        "slots": [
+            "GK"
+        ]
+    },
+    {
+        "id": 243586,
+        "name": "Ayoub El Kaabi",
+        "rating": 80,
+        "club": "Olympiacos FC",
+        "nation": "Morocco",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 259197,
+        "name": "Nicolas Jackson",
+        "rating": 80,
+        "club": "FC Bayern M\u00fcnchen",
+        "nation": "Senegal",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 200155,
+        "name": "Hans Vanaken",
+        "rating": 80,
+        "club": "Club Brugge",
+        "nation": "Belgium",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 277179,
+        "name": "Ferm\u00edn",
+        "rating": 80,
+        "club": "FC Barcelona",
+        "nation": "Spain",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 231677,
+        "name": "Marcus Rashford",
+        "rating": 80,
+        "club": "FC Barcelona",
+        "nation": "England",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 256948,
+        "name": "Christos Tzolis",
+        "rating": 80,
+        "club": "Club Brugge",
+        "nation": "Greece",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 203980,
+        "name": "Konstantinos Fortounis",
+        "rating": 80,
+        "club": "Al Khaleej",
+        "nation": "Greece",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 246420,
+        "name": "J\u00e9r\u00e9my Doku",
+        "rating": 80,
+        "club": "Manchester City",
+        "nation": "Belgium",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 271400,
+        "name": "Igor Paix\u00e3o",
+        "rating": 80,
+        "club": "OM",
+        "nation": "Brazil",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 235149,
+        "name": "Jerdy Schouten",
+        "rating": 80,
+        "club": "PSV",
+        "nation": "Holland",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 256903,
+        "name": "Gon\u00e7alo Ramos",
+        "rating": 80,
+        "club": "Paris SG",
+        "nation": "Portugal",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 225539,
+        "name": "Dominic Solanke",
+        "rating": 80,
+        "club": "Spurs",
+        "nation": "England",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 189596,
+        "name": "Thomas M\u00fcller",
+        "rating": 80,
+        "club": "Whitecaps FC",
+        "nation": "Germany",
+        "slots": [
+            "CAM"
+        ]
+    },
+    {
+        "id": 212096,
+        "name": "Vincenzo Grifo",
+        "rating": 80,
+        "club": "SC Freiburg",
+        "nation": "Italy",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 243593,
+        "name": "Armand Laurient\u00e9",
+        "rating": 80,
+        "club": "Sassuolo",
+        "nation": "France",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 210697,
+        "name": "Christian N\u00f8rgaard",
+        "rating": 80,
+        "club": "Arsenal",
+        "nation": "Denmark",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 262859,
+        "name": "Levi Colwill",
+        "rating": 80,
+        "club": "Chelsea",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 264862,
+        "name": "Maghnes Akliouche",
+        "rating": 80,
+        "club": "AS Monaco",
+        "nation": "France",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 220834,
+        "name": "Marco Asensio",
+        "rating": 80,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Spain",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 258580,
+        "name": "Kerem Akt\u00fcrko\u011flu",
+        "rating": 80,
+        "club": "Fenerbah\u00e7e",
+        "nation": "Turkey",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 258908,
+        "name": "Jan Paul van Hecke",
+        "rating": 80,
+        "club": "Brighton",
+        "nation": "Holland",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 216447,
+        "name": "\u00c1lvaro Garc\u00eda",
+        "rating": 80,
+        "club": "Rayo Vallecano",
+        "nation": "Spain",
+        "slots": [
+            "LM"
+        ]
+    },
+    {
+        "id": 244176,
+        "name": "Deniz Undav",
+        "rating": 80,
+        "club": "VfB Stuttgart",
+        "nation": "Germany",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 246172,
+        "name": "Samuel Chukwueze",
+        "rating": 80,
+        "club": "Fulham",
+        "nation": "Nigeria",
+        "slots": [
+            "RW"
+        ]
+    },
+    {
+        "id": 262138,
+        "name": "Castello Lukeba",
+        "rating": 80,
+        "club": "RB Leipzig",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 200145,
+        "name": "Casemiro",
+        "rating": 80,
+        "club": "Man Utd",
+        "nation": "Brazil",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 256612,
+        "name": "Evanilson",
+        "rating": 80,
+        "club": "AFC Bournemouth",
+        "nation": "Brazil",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 229905,
+        "name": "Abd\u00fclkerim Bardakc\u0131",
+        "rating": 80,
+        "club": "Galatasaray",
+        "nation": "Turkey",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 257278,
+        "name": "Arthur Theate",
+        "rating": 80,
+        "club": "Frankfurt",
+        "nation": "Belgium",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 233049,
+        "name": "Jadon Sancho",
+        "rating": 80,
+        "club": "Aston Villa",
+        "nation": "England",
+        "slots": [
+            "LW"
+        ]
+    },
+    {
+        "id": 241464,
+        "name": "Pau Torres",
+        "rating": 80,
+        "club": "Aston Villa",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 242816,
+        "name": "Riqui Puig",
+        "rating": 80,
+        "club": "LA Galaxy",
+        "nation": "Spain",
+        "slots": [
+            "CM"
+        ]
+    },
+    {
+        "id": 224179,
+        "name": "Borja Iglesias",
+        "rating": 80,
+        "club": "Celta",
+        "nation": "Spain",
+        "slots": [
+            "ST"
+        ]
+    },
+    {
+        "id": 246875,
+        "name": "Odilon Kossounou",
+        "rating": 80,
+        "club": "Bergamo Calcio",
+        "nation": "C\u00f4te d'Ivoire",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 234569,
+        "name": "Florentino",
+        "rating": 80,
+        "club": "Burnley",
+        "nation": "Portugal",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 259377,
+        "name": "Yeremy Pino",
+        "rating": 80,
+        "club": "Crystal Palace",
+        "nation": "Spain",
+        "slots": [
+            "RM"
+        ]
+    },
+    {
+        "id": 189511,
+        "name": "Sergio Busquets",
+        "rating": 80,
+        "club": "Inter Miami CF",
+        "nation": "Spain",
+        "slots": [
+            "CDM"
+        ]
+    },
+    {
+        "id": 266872,
+        "name": "Federico Gatti",
+        "rating": 80,
+        "club": "Juventus",
+        "nation": "Italy",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 212602,
+        "name": "Diego Llorente",
+        "rating": 80,
+        "club": "Real Betis",
+        "nation": "Spain",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 270531,
+        "name": "Ousmane Diomande",
+        "rating": 80,
+        "club": "Sporting CP",
+        "nation": "C\u00f4te d'Ivoire",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 220440,
+        "name": "Cl\u00e9ment Lenglet",
+        "rating": 80,
+        "club": "Atl\u00e9tico de Madrid",
+        "nation": "France",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 203263,
+        "name": "Harry Maguire",
+        "rating": 80,
+        "club": "Man Utd",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 269493,
+        "name": "Alexsandro",
+        "rating": 80,
+        "club": "LOSC Lille",
+        "nation": "Brazil",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 213661,
+        "name": "Andreas Christensen",
+        "rating": 80,
+        "club": "FC Barcelona",
+        "nation": "Denmark",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 202695,
+        "name": "James Tarkowski",
+        "rating": 80,
+        "club": "Everton",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    },
+    {
+        "id": 189881,
+        "name": "Chris Smalling",
+        "rating": 80,
+        "club": "Al Fayha",
+        "nation": "England",
+        "slots": [
+            "CB"
+        ]
+    }
+]
